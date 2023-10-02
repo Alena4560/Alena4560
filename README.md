@@ -10,7 +10,7 @@
 4. ООП. [Пример в репозитории](https://github.com/Alena4560/oophomework)
 5. Docker, Docker-compose. [Пример в репозитории](https://github.com/Alena4560/Django-RESTAPI-Docker)
 6. SQL(PostgreSQL). [Пример в репозитории](https://github.com/Alena4560/Python-.-ORM)
-7. Курсовая. [Пример в репозитории](https://github.com/Alena4560/course2/tree/master)
+7. Курсовая. [Пример в репозитории](https://github.com/Alena4560/course2)
    
 
 ### Сертификаты Нетологии:
