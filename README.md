@@ -7,9 +7,10 @@
 1. Python и Django. [Репозиторий с дипломной работой](https://github.com/Alena4560/Netology-Diplom)
 2. Asyncio. [Пример в репозитории](https://github.com/Alena4560/Asyncio-HW)
 3. Aiohttp. [Пример в репозитории](https://github.com/Alena4560/Aiohttp-app)
-4. Docker, Docker-compose. [Пример в репозитории](https://github.com/Alena4560/Django-RESTAPI-Docker)
-5. SQL(PostgreSQL). [Пример в репозитории](https://github.com/Alena4560/Python-.-ORM)
-6. Курсовая. [Пример в репозитории](https://github.com/Alena4560/course2/blob/master/coursework.py)
+4. ООП. [Пример в репозитории](https://github.com/Alena4560/oophomework)
+5. Docker, Docker-compose. [Пример в репозитории](https://github.com/Alena4560/Django-RESTAPI-Docker)
+6. SQL(PostgreSQL). [Пример в репозитории](https://github.com/Alena4560/Python-.-ORM)
+7. Курсовая. [Пример в репозитории](https://github.com/Alena4560/course2/blob/master/coursework.py)
    
 
 ### Сертификаты Нетологии:
